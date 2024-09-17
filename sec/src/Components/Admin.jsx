@@ -2,7 +2,7 @@ import axios from 'axios';
 import React, { useCallback, useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Swal from 'sweetalert2';
-import styles from "../Styles/Style.module.css";
+import styles from "../Styles/Style.module.css"...........;
 
 const Admin = () => {
   const [product, setProduct] = useState({
